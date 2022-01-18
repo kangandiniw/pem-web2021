@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    margin: 10px;
+}
+.utama{
+    padding:15px;
+    background-color: #E0D6C4;
+}
+div.utama i{
+    color: white;
+    font-size: 50px;
+    font-style: normal;
+}
+.tengah{
+    background-color: #E0D6C4;
+    padding: 30px;
+}
+div .tengah i{
+    color: #7C766B;
+    font-size: 30px;
+    font-style: normal;
+    padding: 10px; 
+}

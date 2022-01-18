@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    margin: 10px;
+}
+.utama{
+    padding:15px;
+    background-color: #E0D6C4;
+}
+div.utama i{
+    color: white;
+    font-size: 50px;
+    font-style: normal;
+}
+form {
+    margin: 10px;
+}

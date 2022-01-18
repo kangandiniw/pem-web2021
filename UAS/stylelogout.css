@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.header{
+    background-color: #E0D6C4;
+    padding: 20px;
+    text-align: center;
+}
+.row{
+    padding: 100px;
+    overflow: hidden;
+}
+.row a{
+    background-color: #E0D6C4;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    width: 60%;
+    font-size:30px;
+    border-radius: 20px;
+}
+.row a:hover{
+    color: white;
+}
